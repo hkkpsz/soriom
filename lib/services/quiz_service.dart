@@ -44,15 +44,7 @@ class QuizService {
           default:
             return 'assets/data/arabesk_sorulari.json';
         }
-      case 'Dizi':
-        switch (subCategory) {
-          case 'Ezel':
-            return 'assets/data/ezel_sorulari.json';
-          case 'Kurtlar Vadisi':
-            return 'assets/data/kurtlar_vadisi_sorulari.json';
-          default:
-            return 'assets/data/ezel_sorulari.json';
-        }
+
       default:
         return 'assets/data/futbolcu_sorulari.json';
     }

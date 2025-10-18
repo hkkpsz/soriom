@@ -1,0 +1,116 @@
+[
+  {
+    "question": "Bu şarkı hangi Sagopa şarkısıdır?",
+    "audio": "assets/audio/Rap/sagopa_baytar.mp3",
+    "options": ["Baytar", "Galiba", "366 Gün", "Bir Gün Her Şey"],
+    "answer": "Baytar"
+  },
+  {
+    "question": "Bu şarkı hangi Ben Fero şarkısıdır?",
+    "audio": "assets/audio/Rap/ben_fero_3_2_1.mp3",
+    "options": ["3 2 1", "Demet Akalın", "Arkadaş", "Bilmem Mi?"],
+    "answer": "3 2 1"
+  },
+  {
+    "question": "Bu şarkı hangi Blok3 şarkısıdır?",
+    "audio": "assets/audio/Rap/blok3_git.mp3",
+    "options": ["Git", "Yok Artık", "Sana Ne", "Dön Gel"],
+    "answer": "Git"
+  },
+  {
+    "question": "Bu şarkı hangi Cartel şarkısıdır?",
+    "audio": "assets/audio/Rap/cartel_cartel_bir_numara.mp3",
+    "options": ["Bir Numara", "Cartel Hadi Gel", "Al Sana", "Dikkat"],
+    "answer": "Bir Numara"
+  },
+  {
+    "question": "Bu şarkı hangi Ceza şarkısıdır?",
+    "audio": "assets/audio/Rap/ceza_med_cezir.mp3",
+    "options": ["Med Cezir", "Suspus", "Yerli Plaka", "Neyim Var Ki"],
+    "answer": "Med Cezir"
+  },
+  {
+    "question": "Bu şarkı hangi Ceza şarkısıdır?",
+    "audio": "assets/audio/Rap/ceza_neyim_var_ki.mp3",
+    "options": ["Neyim Var Ki", "Med Cezir", "Suspus", "Yerli Plaka"],
+    "answer": "Neyim Var Ki"
+  },
+  {
+    "question": "Bu şarkı hangi Ceza şarkısıdır?",
+    "audio": "assets/audio/Rap/ceza_suspus.mp3",
+    "options": ["Suspus", "Med Cezir", "Neyim Var Ki", "Yerli Plaka"],
+    "answer": "Suspus"
+  },
+  {
+    "question": "Bu şarkı hangi Ceza şarkısıdır?",
+    "audio": "assets/audio/Rap/ceza_yerli_plaka.mp3",
+    "options": ["Yerli Plaka", "Med Cezir", "Suspus", "Neyim Var Ki"],
+    "answer": "Yerli Plaka"
+  },
+  {
+    "question": "Bu şarkı hangi Contra şarkısıdır?",
+    "audio": "assets/audio/Rap/contra_islak_kum.mp3",
+    "options": ["Islak Kum", "Sokak Çocukları", "Yok Artık", "Gel Yanıma"],
+    "answer": "Islak Kum"
+  },
+  {
+    "question": "Bu şarkı hangi Eypio şarkısıdır?",
+    "audio": "assets/audio/Rap/eypio_gunah_benim.mp3",
+    "options": ["Günah Benim", "Kalbini Verdın", "Bana Ne", "Arkadaşım"],
+    "answer": "Günah Benim"
+  },
+  {
+    "question": "Bu şarkı hangi Eypio şarkısıdır?",
+    "audio": "assets/audio/Rap/eypio_kalbini_verdin.mp3",
+    "options": ["Kalbini Verdın", "Günah Benim", "Suspus", "Med Cezir"],
+    "answer": "Kalbini Verdın"
+  },
+  {
+    "question": "Bu şarkı hangi Sagopa şarkısıdır?",
+    "audio": "assets/audio/Rap/sagopa_galiba.mp3",
+    "options": ["Galiba", "Baytar", "366 Gün", "Kötü İnsanlar"],
+    "answer": "Galiba"
+  },
+  {
+    "question": "Bu şarkı hangi Norm Ender şarkısıdır?",
+    "audio": "assets/audio/Rap/norm_ender_mekanin_sahibi.mp3",
+    "options": ["Mekanın Sahibi", "Bir Çift Göz", "Deli", "Sakın Gelme"],
+    "answer": "Mekanın Sahibi"
+  },
+  {
+    "question": "Bu şarkı hangi Norm Ender şarkısıdır?",
+    "audio": "assets/audio/Rap/norm_ender_bir_cift_goz.mp3",
+    "options": ["Bir Çift Göz", "Mekanın Sahibi", "Deli", "Sakın Gelme"],
+    "answer": "Bir Çift Göz"
+  },
+  {
+    "question": "Bu şarkı hangi Poizi şarkısıdır?",
+    "audio": "assets/audio/Rap/poizi_perde.mp3",
+    "options": ["Perde", "Yanımda Kal", "Gelme", "Sana Ne"],
+    "answer": "Perde"
+  },
+  {
+    "question": "Bu şarkı hangi Sagopa şarkısıdır?",
+    "audio": "assets/audio/Rap/sagopa_366_gun.mp3",
+    "options": ["366 Gün", "Baytar", "Galiba", "Suspus"],
+    "answer": "366 Gün"
+  },
+  {
+    "question": "Bu şarkı hangi Seda Tripkoliç şarkısıdır?",
+    "audio": "assets/audio/Rap/seda_tripkolic_gozlerinin_yesilini_ozledim.mp3",
+    "options": ["Gözlerinin Yeşilini Özledim", "Yan Benimle", "Beni Bırakma", "Gel Yanıma"],
+    "answer": "Gözlerinin Yeşilini Özledim"
+  },
+  {
+    "question": "Bu şarkı hangi Yener Çevik şarkısıdır?",
+    "audio": "assets/audio/Rap/yener_cevik_huznu_hecem.mp3",
+    "options": ["Hüznü Hecem", "Yıkala Yıkala", "Deli Bile", "Sopa"],
+    "answer": "Hüznü Hecem"
+  },
+  {
+    "question": "Bu şarkı hangi Yener Çevik şarkısıdır?",
+    "audio": "assets/audio/Rap/yener_cevik_yikala_yikala.mp3",
+    "options": ["Yıkala Yıkala", "Hüznü Hecem", "Deli Bile", "Sopa"],
+    "answer": "Yıkala Yıkala"
+  }
+]

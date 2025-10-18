@@ -79,24 +79,6 @@ class MainCategoryScreen extends StatelessWidget {
                       );
                     },
                   ),
-                  const SizedBox(height: 16),
-                  CategoryCard(
-                    icon: Icons.tv,
-                    title: 'Dizi/Film',
-                    subtitle: 'Sinema bilgini test et',
-                    color: Colors.orange,
-                    onTap: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (context) => const SubCategoryScreen(
-                            mainCategory: 'Dizi',
-                            categories: ['Ezel', 'Kurtlar Vadisi'],
-                          ),
-                        ),
-                      );
-                    },
-                  ),
                 ],
               ),
             ),

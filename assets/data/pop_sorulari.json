@@ -1,0 +1,140 @@
+[
+  {
+    "question": "Bu şarkı hangi Afra-Sefo şarkısıdır?",
+    "audio": "assets/audio/Pop/afra-sefo_asiyan.mp3",
+    "options": ["Asiyan", "Atma", "Yolun Açık Olsun", "Seninle Olmak"],
+    "answer": "Asiyan"
+  },
+  {
+    "question": "Bu şarkı hangi Buray şarkısıdır?",
+    "audio": "assets/audio/Pop/buray_alaz_alaz.mp3",
+    "options": ["Alaz Alaz", "Aşk mı Lazım", "Sahiden", "İçimdeki Sen"],
+    "answer": "Alaz Alaz"
+  },
+  {
+    "question": "Bu şarkı hangi Buray şarkısıdır?",
+    "audio": "assets/audio/Pop/buray_ask_mı_lazim.mp3",
+    "options": ["Aşk mı Lazım", "Alaz Alaz", "Sahiden", "İçimdeki Sen"],
+    "answer": "Aşk mı Lazım"
+  },
+  {
+    "question": "Bu şarkı hangi Derya Uluğ şarkısıdır?",
+    "audio": "assets/audio/Pop/derya_ulug_canavar.mp3",
+    "options": ["Canavar", "Hadi Çal", "Okyanus", "Bana Ne"],
+    "answer": "Canavar"
+  },
+  {
+    "question": "Bu şarkı hangi Derya Uluğ şarkısıdır?",
+    "audio": "assets/audio/Pop/derya_ulug_hadi_cal.mp3",
+    "options": ["Hadi Çal", "Canavar", "Okyanus", "Bana Ne"],
+    "answer": "Hadi Çal"
+  },
+  {
+    "question": "Bu şarkı hangi Edis şarkısıdır?",
+    "audio": "assets/audio/Pop/edis_ariyorum.mp3",
+    "options": ["Ariyorum", "Dudak", "Martılar", "Bana Ne"],
+    "answer": "Ariyorum"
+  },
+  {
+    "question": "Bu şarkı hangi Edis şarkısıdır?",
+    "audio": "assets/audio/Pop/edis_dudak.mp3",
+    "options": ["Dudak", "Ariyorum", "Martılar", "Bana Ne"],
+    "answer": "Dudak"
+  },
+  {
+    "question": "Bu şarkı hangi Edis şarkısıdır?",
+    "audio": "assets/audio/Pop/edis_martilar.mp3",
+    "options": ["Martılar", "Ariyorum", "Dudak", "Bana Ne"],
+    "answer": "Martılar"
+  },
+  {
+    "question": "Bu şarkı hangi Emir Can İğrek şarkısıdır?",
+    "audio": "assets/audio/Pop/emir_can_igrek_kor.mp3",
+    "options": ["Kor", "Dönme", "Alev", "Beni Sev"],
+    "answer": "Kor"
+  },
+  {
+    "question": "Bu şarkı hangi Hadise şarkısıdır?",
+    "audio": "assets/audio/Pop/hadise_deli_oglan.mp3",
+    "options": ["Deli Oğlan", "Feryat", "Sıfır Tolerans", "Prenses"],
+    "answer": "Deli Oğlan"
+  },
+  {
+    "question": "Bu şarkı hangi Hadise şarkısıdır?",
+    "audio": "assets/audio/Pop/hadise_feryat.mp3",
+    "options": ["Feryat", "Deli Oğlan", "Sıfır Tolerans", "Prenses"],
+    "answer": "Feryat"
+  },
+  {
+    "question": "Bu şarkı hangi Hande Yener şarkısıdır?",
+    "audio": "assets/audio/Pop/hande_yener_deli_bile.mp3",
+    "options": ["Deli Bile", "Sopa", "Romeo", "Bana Anlat"],
+    "answer": "Deli Bile"
+  },
+  {
+    "question": "Bu şarkı hangi Hande Yener şarkısıdır?",
+    "audio": "assets/audio/Pop/hande_yener_sopa.mp3",
+    "options": ["Sopa", "Deli Bile", "Romeo", "Bana Anlat"],
+    "answer": "Sopa"
+  },
+  {
+    "question": "Bu şarkı hangi Zeynep Bastık şarkısıdır?",
+    "audio": "assets/audio/Pop/zeynep_bastik_lan.mp3",
+    "options": ["Lan", "Her Mevsim", "Çukur", "Yolun Açık Olsun"],
+    "answer": "Lan"
+  },
+  {
+    "question": "Bu şarkı hangi Mert Demir şarkısıdır?",
+    "audio": "assets/audio/Pop/mert_demir_atese_dustum.mp3",
+    "options": ["Ateşe Düştüm", "Yanımda Kal", "Sana Dönerim", "Geceler"],
+    "answer": "Ateşe Düştüm"
+  },
+  {
+    "question": "Bu şarkı hangi Mabel Matiz şarkısıdır?",
+    "audio": "assets/audio/Pop/mabel_matiz_antideprasan.mp3",
+    "options": ["Antideprasan", "Gel", "Sarmaşık", "Fırtınadayım"],
+    "answer": "Antideprasan"
+  },
+  {
+    "question": "Bu şarkı hangi Sefo-Demet Akalın düeti şarkısıdır?",
+    "audio": "assets/audio/Pop/sefo-demet_akalin_yerinde_dur.mp3",
+    "options": ["Yerinde Dur", "Asi", "Dön Gel", "Beni Bırakma"],
+    "answer": "Yerinde Dur"
+  },
+  {
+    "question": "Bu şarkı hangi Semicenk şarkısıdır?",
+    "audio": "assets/audio/Pop/semicenk_unutmak_oyle_kolaymi_sandin.mp3",
+    "options": ["Unutmak Öyle Kolay mı Sandın", "Al Sevgilim", "Gel Barışalım", "Beni Affet"],
+    "answer": "Unutmak Öyle Kolay mı Sandın"
+  },
+  {
+    "question": "Bu şarkı hangi Sıla şarkısıdır?",
+    "audio": "assets/audio/Pop/sila_yan_benimle.mp3",
+    "options": ["Yan Benimle", "Acı", "Kafa", "Vazgeçme"],
+    "answer": "Yan Benimle"
+  },
+  {
+    "question": "Bu şarkı hangi Simge şarkısıdır?",
+    "audio": "assets/audio/Pop/simge_askin_olayim.mp3",
+    "options": ["Aşkın Olayım", "Öpücüm", "Miş Miş", "Yankı"],
+    "answer": "Aşkın Olayım"
+  },
+  {
+    "question": "Bu şarkı hangi Simge şarkısıdır?",
+    "audio": "assets/audio/Pop/simge_mis_mis.mp3",
+    "options": ["Miş Miş", "Aşkın Olayım", "Öpücüm", "Yankı"],
+    "answer": "Miş Miş"
+  },
+  {
+    "question": "Bu şarkı hangi Simge şarkısıdır?",
+    "audio": "assets/audio/Pop/simge_opucem.mp3",
+    "options": ["Öpücüm", "Miş Miş", "Aşkın Olayım", "Yankı"],
+    "answer": "Öpücüm"
+  },
+  {
+    "question": "Bu şarkı hangi Tan Taşçı şarkısıdır?",
+    "audio": "assets/audio/Pop/tan_tascı_yok_baska_hayalim.mp3",
+    "options": ["Yok Başka Hayalim", "Beni Affet", "Sensiz Olmaz", "Gel Yanıma"],
+    "answer": "Yok Başka Hayalim"
+  }
+]

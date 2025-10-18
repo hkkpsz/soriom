@@ -40,6 +40,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
   @override
   void dispose() {
+    _audioPlayer.stop();
     _audioPlayer.dispose();
     super.dispose();
   }
@@ -70,11 +71,17 @@ class _QuizScreenState extends State<QuizScreen> {
       score++;
     }
 
+    // Ses çalıyorsa durdur
+    if (isPlaying) {
+      _audioPlayer.stop();
+    }
+
     if (currentQuestionIndex < questions.length - 1) {
       setState(() {
         currentQuestionIndex++;
         selectedAnswer = null;
         showAnswer = false;
+        isPlaying = false;
       });
     } else {
       // Quiz bitti, sonuç ekranına git
@@ -300,30 +307,11 @@ class _QuizScreenState extends State<QuizScreen> {
                       '',
                     );
 
-                    // Ses çalma simülasyonu (boş MP3 dosyaları çalışmadığı için)
+                    // Gerçek ses dosyası çal
+                    await _audioPlayer.play(AssetSource(audioPath));
                     setState(() {
                       isPlaying = true;
                     });
-
-                    // 5 saniye sonra otomatik durdur
-                    Future.delayed(const Duration(seconds: 5), () {
-                      if (mounted) {
-                        setState(() {
-                          isPlaying = false;
-                        });
-                      }
-                    });
-
-                    // Kullanıcıya bilgi ver
-                    ScaffoldMessenger.of(context).showSnackBar(
-                      SnackBar(
-                        content: Text(
-                          'Ses simülasyonu: ${audioPath.split('/').last}',
-                        ),
-                        backgroundColor: Colors.blue,
-                        duration: const Duration(seconds: 2),
-                      ),
-                    );
                   } catch (e) {
                     print('Ses dosyası hatası: $e');
                     _showAudioError('Ses dosyası çalınamadı');
@@ -349,16 +337,16 @@ class _QuizScreenState extends State<QuizScreen> {
           ),
           const SizedBox(height: 20),
           Text(
-            questionData.audio != null ? 'SİMÜLASYON' : 'Ses Yok',
+            questionData.audio != null ? '00:05' : 'Ses Yok',
             style: const TextStyle(
-              fontSize: 20,
+              fontSize: 24,
               fontWeight: FontWeight.bold,
-              color: Colors.blue,
+              color: Colors.black87,
             ),
           ),
           Text(
             questionData.audio != null
-                ? 'Gerçek MP3 dosyası gerekli'
+                ? 'Şarkıyı dinleyin'
                 : 'Ses dosyası bulunamadı',
             style: const TextStyle(fontSize: 14, color: Colors.grey),
           ),
@@ -368,10 +356,16 @@ class _QuizScreenState extends State<QuizScreen> {
               Expanded(
                 child: AnswerButton(
                   text: questionData.options[0],
+                  isSelected: selectedAnswer == questionData.options[0],
+                  isCorrect: questionData.options[0] == questionData.answer,
+                  showAnswer: showAnswer,
                   onTap: () {
-                    setState(() {
-                      selectedAnswer = questionData.options[0];
-                    });
+                    if (selectedAnswer == null) {
+                      setState(() {
+                        selectedAnswer = questionData.options[0];
+                        showAnswer = true;
+                      });
+                    }
                   },
                 ),
               ),
@@ -379,10 +373,16 @@ class _QuizScreenState extends State<QuizScreen> {
               Expanded(
                 child: AnswerButton(
                   text: questionData.options[1],
+                  isSelected: selectedAnswer == questionData.options[1],
+                  isCorrect: questionData.options[1] == questionData.answer,
+                  showAnswer: showAnswer,
                   onTap: () {
-                    setState(() {
-                      selectedAnswer = questionData.options[1];
-                    });
+                    if (selectedAnswer == null) {
+                      setState(() {
+                        selectedAnswer = questionData.options[1];
+                        showAnswer = true;
+                      });
+                    }
                   },
                 ),
               ),
@@ -394,10 +394,16 @@ class _QuizScreenState extends State<QuizScreen> {
               Expanded(
                 child: AnswerButton(
                   text: questionData.options[2],
+                  isSelected: selectedAnswer == questionData.options[2],
+                  isCorrect: questionData.options[2] == questionData.answer,
+                  showAnswer: showAnswer,
                   onTap: () {
-                    setState(() {
-                      selectedAnswer = questionData.options[2];
-                    });
+                    if (selectedAnswer == null) {
+                      setState(() {
+                        selectedAnswer = questionData.options[2];
+                        showAnswer = true;
+                      });
+                    }
                   },
                 ),
               ),
@@ -405,10 +411,16 @@ class _QuizScreenState extends State<QuizScreen> {
               Expanded(
                 child: AnswerButton(
                   text: questionData.options[3],
+                  isSelected: selectedAnswer == questionData.options[3],
+                  isCorrect: questionData.options[3] == questionData.answer,
+                  showAnswer: showAnswer,
                   onTap: () {
-                    setState(() {
-                      selectedAnswer = questionData.options[3];
-                    });
+                    if (selectedAnswer == null) {
+                      setState(() {
+                        selectedAnswer = questionData.options[3];
+                        showAnswer = true;
+                      });
+                    }
                   },
                 ),
               ),

@@ -14,10 +14,6 @@ Flutter ile geliştirilmiş interaktif quiz uygulaması.
   - Pop
   - Rap
 
-- **Dizi/Film Quiz**: Sinema bilginizi test edin
-  - Ezel
-  - Kurtlar Vadisi
-
 ## Kurulum
 
 1. Flutter SDK'nın yüklü olduğundan emin olun
@@ -52,18 +48,21 @@ Uygulama tasarımı modern ve kullanıcı dostu bir arayüze sahiptir:
 - Futbolcu kategorisi için 20 soru hazır durumda
 - Genel Kültür kategorisi için 20 soru hazır durumda (Türkiye'deki tarihi ve turistik yerler)
 - Arabesk müzik kategorisi için 22 soru hazır durumda (Müslüm Gürses, Bergen, Ferdi Tayfur vb.)
+- Rap müzik kategorisi için 19 soru hazır durumda (Ceza, Sagopa, Norm Ender, Ben Fero vb.)
+- Pop müzik kategorisi için 23 soru hazır durumda (Simge, Hadise, Edis, Buray, Sıla vb.)
 
-## 🎵 Müzik Quiz'i - Simülasyon Modu
+## 🎵 Müzik Quiz'i - Aktif Mod
 
-**Şu anda simülasyon modunda çalışıyor:**
-- Play butonuna basınca 5 saniye ses çalma simülasyonu yapılır
-- Gerçek MP3 dosyaları için `assets/audio/arabesk/` klasörüne ekleyin
-- Dosya isimleri JSON'daki path'lerle tam olarak eşleşmeli
+**Müzik quiz'i tamamen aktif:**
+- Gerçek MP3 dosyalarını çalar
+- Doğru/yanlış cevap gösterimi aktif
+- Play/Pause kontrolleri çalışıyor
+- Skor takibi yapılıyor
 
-**Gerçek MP3 dosyaları için:**
+**Kullanım:**
 1. Arabesk şarkılarını `assets/audio/arabesk/` klasörüne koyun
-2. Quiz screen'deki simülasyon kodunu gerçek AudioPlayer koduyla değiştirin
-3. Uygulama JSON'dan ses dosyası yolunu otomatik alır
+2. Dosya isimleri JSON'daki path'lerle tam olarak eşleşmeli
+3. Müzik → Arabesk kategorisinden quiz'i başlatın
 
 ## JSON Veri Yapısı
 
