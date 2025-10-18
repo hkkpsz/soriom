@@ -1,0 +1,24 @@
+# Bu klasöre Türkiye'deki tarihi ve turistik yer resimleri konulacak
+# Dosya isimleri JSON dosyasındaki image path'leriyle eşleşmeli
+
+Gerekli dosya isimleri:
+- amasra.jpg
+- ankara_kalesi.jpg
+- aspendos_antik_tiyatrosu.jpg
+- ayasofya.jpg
+- cennet_cehennem_obruklari.jpg
+- efes_antik_kenti.jpg
+- galata_kulesi.jpg
+- gobekli_tepe.jpg
+- kiz_kalesi.jpg
+- kiz_kulesi.jpg
+- mardin_tas_evleri.jpg
+- melike_hatun_camii.jpg
+- myra_antik_kenti.jpg
+- pamukkale.jpg
+- peri_bacalari.jpg
+- safranbolu.jpg
+- sardes_antik_kenti.jpg
+- sumela_manastiri.jpg
+- tokat_saat_kulesi.jpg
+- topkapi_sarayi.jpg

@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Fotoğrafta görülen bu tarihi sahil kasabası hangisidir?",
+        "image": "assets/images/gezilecek_yerler/amasra.jpg",
+        "options": [
+            "Amasra",
+            "Safranbolu",
+            "Mardin",
+            "Antalya Kaleiçi"
+        ],
+        "answer": "Amasra"
+    },
+    {
+        "question": "Bu tarihi kale hangi şehirde yer almaktadır?",
+        "image": "assets/images/gezilecek_yerler/ankara kalesi.jpg",
+        "options": [
+            "Ankara Kalesi",
+            "İzmir Kadifekale",
+            "Alanya Kalesi",
+            "Gaziantep Kalesi"
+        ],
+        "answer": "Ankara Kalesi"
+    },
+    {
+        "question": "Fotoğrafta yer alan bu antik tiyatro hangisidir?",
+        "image": "assets/images/gezilecek_yerler/Aspendos Antik Tiyatrosu.jpg",
+        "options": [
+            "Aspendos Antik Tiyatrosu",
+            "Efes Antik Tiyatrosu",
+            "Hierapolis Tiyatrosu",
+            "Myra Tiyatrosu"
+        ],
+        "answer": "Aspendos Antik Tiyatrosu"
+    },
+    {
+        "question": "Bu tarihi yapı hangi yapıdır?",
+        "image": "assets/images/gezilecek_yerler/ayasofya.jpg",
+        "options": [
+            "Ayasofya",
+            "Sultanahmet Camii",
+            "Melike Hatun Camii",
+            "Selimiye Camii"
+        ],
+        "answer": "Ayasofya"
+    },
+    {
+        "question": "Bu doğa harikası obruklar hangi isimle bilinir?",
+        "image": "assets/images/gezilecek_yerler/Cennet-Cehennem Obrukları.jpg",
+        "options": [
+            "Cennet Cehennem Obrukları",
+            "Obruk Gölü",
+            "Tuz Gölü Obrukları",
+            "Meke Krater Gölü"
+        ],
+        "answer": "Cennet Cehennem Obrukları"
+    },
+    {
+        "question": "Fotoğraftaki antik kent hangisidir?",
+        "image": "assets/images/gezilecek_yerler/efes antik kent.jpg",
+        "options": [
+            "Efes Antik Kenti",
+            "Sardes Antik Kenti",
+            "Myra Antik Kenti",
+            "Hierapolis Antik Kenti"
+        ],
+        "answer": "Efes Antik Kenti"
+    },
+    {
+        "question": "Bu tarihi kule hangi yapıdır?",
+        "image": "assets/images/gezilecek_yerler/Galata Kulesi.jpg",
+        "options": [
+            "Galata Kulesi",
+            "Kız Kulesi",
+            "İzmir Saat Kulesi",
+            "Tokat Saat Kulesi"
+        ],
+        "answer": "Galata Kulesi"
+    },
+    {
+        "question": "Bu arkeolojik alan, insanlık tarihinin en eski tapınaklarından biridir. Hangisidir?",
+        "image": "assets/images/gezilecek_yerler/gobekli tepe.jpg",
+        "options": [
+            "Göbekli Tepe",
+            "Hattuşa",
+            "Çatalhöyük",
+            "Sardes"
+        ],
+        "answer": "Göbekli Tepe"
+    },
+    {
+        "question": "Denizin ortasındaki bu kale hangi isimle bilinir?",
+        "image": "assets/images/gezilecek_yerler/kız kalesi.jpg",
+        "options": [
+            "Kız Kalesi",
+            "Kız Kulesi",
+            "Alanya Kalesi",
+            "Sinop Kalesi"
+        ],
+        "answer": "Kız Kalesi"
+    },
+    {
+        "question": "Bu kule İstanbul Boğazı'nda yer almaktadır. Hangisidir?",
+        "image": "assets/images/gezilecek_yerler/kız kulesi.jpg",
+        "options": [
+            "Kız Kulesi",
+            "Galata Kulesi",
+            "İzmir Saat Kulesi",
+            "Ankara Kalesi"
+        ],
+        "answer": "Kız Kulesi"
+    },
+    {
+        "question": "Fotoğraftaki taş mimarisiyle ünlü şehir hangisidir?",
+        "image": "assets/images/gezilecek_yerler/Mardin Taş Evleri.jpg",
+        "options": [
+            "Mardin Taş Evleri",
+            "Safranbolu",
+            "Amasra",
+            "Göreme"
+        ],
+        "answer": "Mardin Taş Evleri"
+    },
+    {
+        "question": "Bu modern cami hangi yapıdır?",
+        "image": "assets/images/gezilecek_yerler/melike hatun camii.jpg",
+        "options": [
+            "Melike Hatun Camii",
+            "Kocatepe Camii",
+            "Ayasofya",
+            "Selimiye Camii"
+        ],
+        "answer": "Melike Hatun Camii"
+    },
+    {
+        "question": "Fotoğrafta yer alan bu antik mezar alanı hangi kenttedir?",
+        "image": "assets/images/gezilecek_yerler/Myra Antik Kenti.jpg",
+        "options": [
+            "Myra Antik Kenti",
+            "Efes Antik Kenti",
+            "Aspendos",
+            "Göbekli Tepe"
+        ],
+        "answer": "Myra Antik Kenti"
+    },
+    {
+        "question": "Pamuk gibi beyaz travertenleriyle ünlü bu yer neresidir?",
+        "image": "assets/images/gezilecek_yerler/pamukkale.jpg",
+        "options": [
+            "Pamukkale",
+            "Kapadokya",
+            "Sardes",
+            "Efes"
+        ],
+        "answer": "Pamukkale"
+    },
+    {
+        "question": "Fotoğrafta yer alan bu doğal oluşumlar hangi isimle bilinir?",
+        "image": "assets/images/gezilecek_yerler/peri bacaları.jpg",
+        "options": [
+            "Peri Bacaları",
+            "Cennet Cehennem Obrukları",
+            "Pamukkale Travertenleri",
+            "Ilgaz Dağları"
+        ],
+        "answer": "Peri Bacaları"
+    },
+    {
+        "question": "Ahşap evleriyle UNESCO mirasında yer alan bu yer neresidir?",
+        "image": "assets/images/gezilecek_yerler/Safranbolu.jpg",
+        "options": [
+            "Safranbolu",
+            "Mardin",
+            "Amasra",
+            "Göynük"
+        ],
+        "answer": "Safranbolu"
+    },
+    {
+        "question": "Bu antik kent, Artemis Tapınağı'yla ünlü olan hangisidir?",
+        "image": "assets/images/gezilecek_yerler/sardes antik kenti.jpg",
+        "options": [
+            "Sardes Antik Kenti",
+            "Efes Antik Kenti",
+            "Myra Antik Kenti",
+            "Bergama"
+        ],
+        "answer": "Sardes Antik Kenti"
+    },
+    {
+        "question": "Dağın yamacına oyulmuş bu manastır nerededir?",
+        "image": "assets/images/gezilecek_yerler/Sümela Manastırı.jpg",
+        "options": [
+            "Sümela Manastırı",
+            "Mor Gabriel Manastırı",
+            "Aya Yorgi Manastırı",
+            "Göreme Manastırı"
+        ],
+        "answer": "Sümela Manastırı"
+    },
+    {
+        "question": "Fotoğraftaki bu tarihi saat kulesi hangi şehirde bulunur?",
+        "image": "assets/images/gezilecek_yerler/tokat saat kulesi.jpg",
+        "options": [
+            "Tokat Saat Kulesi",
+            "İzmir Saat Kulesi",
+            "Dolmabahçe Saat Kulesi",
+            "Kastamonu Saat Kulesi"
+        ],
+        "answer": "Tokat Saat Kulesi"
+    },
+    {
+        "question": "Bu yapı Osmanlı İmparatorluğu'nun en önemli saraylarından biridir. Hangisidir?",
+        "image": "assets/images/gezilecek_yerler/top kapı sarayı.jpg",
+        "options": [
+            "Topkapı Sarayı",
+            "Dolmabahçe Sarayı",
+            "Beylerbeyi Sarayı",
+            "Çırağan Sarayı"
+        ],
+        "answer": "Topkapı Sarayı"
+    }
+]

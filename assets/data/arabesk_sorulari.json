@@ -1,0 +1,244 @@
+[
+    {
+        "question": "Bu şarkı hangi Ebru Gündeş şarkısıdır?",
+        "audio": "assets/audio/arabesk/cennet.mp3",
+        "options": [
+            "Cennet",
+            "Aşk Laftan Anlamaz",
+            "Dön Ne Olur",
+            "Sen Allahın Bir Lutfusun"
+        ],
+        "answer": "Cennet"
+    },
+    {
+        "question": "Bu şarkı hangi Ferdi Tayfur şarkısıdır?",
+        "audio": "assets/audio/arabesk/ben_de_ozledim.mp3",
+        "options": [
+            "Ben de Özledim",
+            "Bana Sor",
+            "Sevda Yelleri",
+            "Hadi Gel Gezelim"
+        ],
+        "answer": "Ben de Özledim"
+    },
+    {
+        "question": "Bu şarkı hangi Bergen şarkısıdır?",
+        "audio": "assets/audio/arabesk/benim_icin_uzulme.mp3",
+        "options": [
+            "Benim İçin Üzülme",
+            "İnsan Dertli Olunca",
+            "Sen Affetsen",
+            "Acıların Kadını"
+        ],
+        "answer": "Benim İçin Üzülme"
+    },
+    {
+        "question": "Bu şarkı hangi Bergen şarkısıdır?",
+        "audio": "assets/audio/arabesk/insan_dertli_olunca.mp3",
+        "options": [
+            "İnsan Dertli Olunca",
+            "Benim İçin Üzülme",
+            "Sen Affetsen",
+            "Acıların Kadını"
+        ],
+        "answer": "İnsan Dertli Olunca"
+    },
+    {
+        "question": "Bu şarkı hangi Bergen şarkısıdır?",
+        "audio": "assets/audio/arabesk/sen_affetsen.mp3",
+        "options": [
+            "Sen Affetsen",
+            "Benim İçin Üzülme",
+            "İnsan Dertli Olunca",
+            "Acıların Kadını"
+        ],
+        "answer": "Sen Affetsen"
+    },
+    {
+        "question": "Bu şarkı hangi Burak Bulut ve Ebru Yaşar düeti şarkısıdır?",
+        "audio": "assets/audio/arabesk/kurtulus_kus_icime_ata_ata.mp3",
+        "options": [
+            "İçime Ata Ata",
+            "Cennet",
+            "Yediverenim",
+            "Al Sevgilim"
+        ],
+        "answer": "İçime Ata Ata"
+    },
+    {
+        "question": "Bu şarkı hangi Ferdi Tayfur şarkısıdır?",
+        "audio": "assets/audio/arabesk/bana_sor.mp3",
+        "options": [
+            "Bana Sor",
+            "Sevda Yelleri",
+            "Ben de Özledim",
+            "Hadi Gel Gezelim"
+        ],
+        "answer": "Bana Sor"
+    },
+    {
+        "question": "Bu şarkı hangi Ferdi Tayfur şarkısıdır?",
+        "audio": "assets/audio/arabesk/sevda_yelleri.mp3",
+        "options": [
+            "Sevda Yelleri",
+            "Bana Sor",
+            "Ben de Özledim",
+            "Hadi Gel Gezelim"
+        ],
+        "answer": "Sevda Yelleri"
+    },
+    {
+        "question": "Bu şarkı hangi Funda Arar şarkısıdır?",
+        "audio": "assets/audio/arabesk/yediverenim.mp3",
+        "options": [
+            "Yediverenim",
+            "Al Sevgilim",
+            "Kurtuluş Kuş İçime Ata Ata",
+            "Gel Barışalım"
+        ],
+        "answer": "Yediverenim"
+    },
+    {
+        "question": "Bu şarkı hangi Cengiz Kurtoğlu şarkısıdır?",
+        "audio": "assets/audio/arabesk/hain_geceler.mp3",
+        "options": [
+            "Hain Geceler",
+            "Hatasız Kul Olmaz",
+            "Yorgun Yıllarım",
+            "Al Sevgilim"
+        ],
+        "answer": "Hain Geceler"
+    },
+    {
+        "question": "Bu şarkı hangi Cengiz Kurtoğlu şarkısıdır?",
+        "audio": "assets/audio/arabesk/hatasiz_kul_olmaz.mp3",
+        "options": [
+            "Hatasız Kul Olmaz",
+            "Hain Geceler",
+            "Yorgun Yıllarım",
+            "Al Sevgilim"
+        ],
+        "answer": "Hatasız Kul Olmaz"
+    },
+    {
+        "question": "Bu şarkı hangi İbrahim Tatlıses şarkısıdır?",
+        "audio": "assets/audio/arabesk/mutlu_ol_yeter.mp3",
+        "options": [
+            "Mutlu Ol Yeter",
+            "Haydi Gel Gezelim",
+            "Mavi Mavi",
+            "Gülüm Benim"
+        ],
+        "answer": "Mutlu Ol Yeter"
+    },
+    {
+        "question": "Bu şarkı hangi Müslüm Gürses şarkısıdır?",
+        "audio": "assets/audio/arabesk/itirazim_var.mp3",
+        "options": [
+            "İtirazım Var",
+            "Nilufer",
+            "Seni Yazdım",
+            "Unutamadım"
+        ],
+        "answer": "İtirazım Var"
+    },
+    {
+        "question": "Bu şarkı hangi Murat Kurşun şarkısıdır?",
+        "audio": "assets/audio/arabesk/mardinli_guzel_yarim.mp3",
+        "options": [
+            "Mardinli Güzel Yarim",
+            "Acıların Kadını",
+            "Gel Barışalım",
+            "Al Sevgilim"
+        ],
+        "answer": "Mardinli Güzel Yarim"
+    },
+    {
+        "question": "Bu şarkı hangi Müslüm Gürses şarkısıdır?",
+        "audio": "assets/audio/arabesk/nilufer.mp3",
+        "options": [
+            "Nilufer",
+            "İtirazım Var",
+            "Seni Yazdım",
+            "Unutamadım"
+        ],
+        "answer": "Nilufer"
+    },
+    {
+        "question": "Bu şarkı hangi Müslüm Gürses şarkısıdır?",
+        "audio": "assets/audio/arabesk/seni_yazdim.mp3",
+        "options": [
+            "Seni Yazdım",
+            "İtirazım Var",
+            "Nilufer",
+            "Unutamadım"
+        ],
+        "answer": "Seni Yazdım"
+    },
+    {
+        "question": "Bu şarkı hangi Müslüm Gürses şarkısıdır?",
+        "audio": "assets/audio/arabesk/unutamadim.mp3",
+        "options": [
+            "Unutamadım",
+            "İtirazım Var",
+            "Nilufer",
+            "Seni Yazdım"
+        ],
+        "answer": "Unutamadım"
+    },
+    {
+        "question": "Bu şarkı hangi Orhan Gencebay şarkısıdır?",
+        "audio": "assets/audio/arabesk/dil_yarasi.mp3",
+        "options": [
+            "Dil Yarası",
+            "Vazgeç Gönlüm",
+            "Al Sevgilim",
+            "Yorgun Yıllarım"
+        ],
+        "answer": "Dil Yarası"
+    },
+    {
+        "question": "Bu şarkı hangi Orhan Gencebay şarkısıdır?",
+        "audio": "assets/audio/arabesk/vazgec_gonlum.mp3",
+        "options": [
+            "Vazgeç Gönlüm",
+            "Dil Yarası",
+            "Al Sevgilim",
+            "Yorgun Yıllarım"
+        ],
+        "answer": "Vazgeç Gönlüm"
+    },
+    {
+        "question": "Bu şarkı hangi Güllü şarkısıdır?",
+        "audio": "assets/audio/arabesk/sabah_olmadan.mp3",
+        "options": [
+            "Sabah Olmadan",
+            "Al Sevgilim",
+            "Kurtuluş Kuş İçime Ata Ata",
+            "Yediverenim"
+        ],
+        "answer": "Sabah Olmadan"
+    },
+    {
+        "question": "Bu şarkı hangi Funda Arar şarkısıdır?",
+        "audio": "assets/audio/arabesk/al_sevgilim.mp3",
+        "options": [
+            "Al Sevgilim",
+            "Yediverenim",
+            "Kurtuluş Kuş İçime Ata Ata",
+            "Sabah Olmadan"
+        ],
+        "answer": "Al Sevgilim"
+    },
+    {
+        "question": "Bu şarkı hangi Cengiz Kurtoğlu şarkısıdır?",
+        "audio": "assets/audio/arabesk/yorgun_yillarim.mp3",
+        "options": [
+            "Yorgun Yıllarım",
+            "Hain Geceler",
+            "Hatasız Kul Olmaz",
+            "Al Sevgilim"
+        ],
+        "answer": "Yorgun Yıllarım"
+    }
+]

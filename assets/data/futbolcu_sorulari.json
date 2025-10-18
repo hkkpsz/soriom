@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Fotoğrafta yer alan bu Brezilyalı efsane futbolcu kimdir?",
+    "image": "assets/images/futbolcular/alex.jpg",
+    "options": [
+      "Alex de Souza",
+      "Ronaldinho",
+      "Rivaldo",
+      "Kaka"
+    ],
+    "answer": "Alex de Souza"
+  },
+  {
+    "question": "Fotoğraftaki kaleci kimdir?",
+    "image": "assets/images/futbolcular/alisson.jpg",
+    "options": [
+      "Alisson",
+      "Ederson",
+      "Courtois",
+      "Ter Stegen"
+    ],
+    "answer": "Alisson"
+  },
+  {
+    "question": "Hollandalı efsane futbolcu ve teknik direktör kimdir?",
+    "image": "assets/images/futbolcular/cruyff.jpg",
+    "options": [
+      "Johan Cruyff",
+      "Marco van Basten",
+      "Dennis Bergkamp",
+      "Ruud Gullit"
+    ],
+    "answer": "Johan Cruyff"
+  },
+  {
+    "question": "Juventus efsanesi olan bu İtalyan futbolcu kimdir?",
+    "image": "assets/images/futbolcular/delpiero.jpg",
+    "options": [
+      "Del Piero",
+      "Totti",
+      "Inzaghi",
+      "Vieri"
+    ],
+    "answer": "Del Piero"
+  },
+  {
+    "question": "Fotoğraftaki bu Fildişi Sahilli golcü kimdir?",
+    "image": "assets/images/futbolcular/drogba.jpg",
+    "options": [
+      "Didier Drogba",
+      "Samuel Eto'o",
+      "Adebayor",
+      "Weah"
+    ],
+    "answer": "Didier Drogba"
+  },
+  {
+    "question": "Fotoğrafta görülen genç İspanyol futbolcu kimdir?",
+    "image": "assets/images/futbolcular/ferrantorres.jpg",
+    "options": [
+      "Ferran Torres",
+      "Pedri",
+      "Ansu Fati",
+      "Gavi"
+    ],
+    "answer": "Ferran Torres"
+  },
+  {
+    "question": "Bu futbolcu Türkiye liglerinde de forma giymiş bir forvettir. Kimdir?",
+    "image": "assets/images/futbolcular/gokhaninler.jpg",
+    "options": [
+      "Gökhan İnler",
+      "Burak Yılmaz",
+      "Cenk Tosun",
+      "Mevlüt Erdinç"
+    ],
+    "answer": "Gökhan İnler"
+  },
+  {
+    "question": "Galatasaray tarihine damga vuran Rumen futbolcu kimdir?",
+    "image": "assets/images/futbolcular/hagi.jpg",
+    "options": [
+      "Gheorghe Hagi",
+      "Popescu",
+      "Mutu",
+      "Stoica"
+    ],
+    "answer": "Gheorghe Hagi"
+  },
+  {
+    "question": "Fransız futbolunun en büyük forvetlerinden biri olan bu futbolcu kimdir?",
+    "image": "assets/images/futbolcular/henry.jpg",
+    "options": [
+      "Thierry Henry",
+      "David Trezeguet",
+      "Anelka",
+      "Mbappe"
+    ],
+    "answer": "Thierry Henry"
+  },
+  {
+    "question": "Arjantinli defansif orta saha oyuncusu kimdir?",
+    "image": "assets/images/futbolcular/mascherano.jpg",
+    "options": [
+      "Javier Mascherano",
+      "Gago",
+      "Cambiasso",
+      "Biglia"
+    ],
+    "answer": "Javier Mascherano"
+  },
+  {
+    "question": "Türk asıllı Alman futbolcu kimdir?",
+    "image": "assets/images/futbolcular/mesutozil.jpg",
+    "options": [
+      "Mesut Özil",
+      "İlkay Gündoğan",
+      "Emre Can",
+      "Hamit Altıntop"
+    ],
+    "answer": "Mesut Özil"
+  },
+  {
+    "question": "Futbolun kralı olarak bilinen bu Brezilyalı efsane kimdir?",
+    "image": "assets/images/futbolcular/pele.jpg",
+    "options": [
+      "Pele",
+      "Maradona",
+      "Romário",
+      "Ronaldo Nazário"
+    ],
+    "answer": "Pele"
+  },
+  {
+    "question": "Adına ödül verilen Macar futbol efsanesi kimdir?",
+    "image": "assets/images/futbolcular/puskas.jpg",
+    "options": [
+      "Ferenc Puskás",
+      "László Kubala",
+      "Hidegkuti",
+      "Zahovič"
+    ],
+    "answer": "Ferenc Puskás"
+  },
+  {
+    "question": "Efsane sol bek Roberto Carlos hangi futbolcudur?",
+    "image": "assets/images/futbolcular/robertocarlos.jpg",
+    "options": [
+      "Roberto Carlos",
+      "Cafu",
+      "Marcelo",
+      "Evra"
+    ],
+    "answer": "Roberto Carlos"
+  },
+  {
+    "question": "Topla yaptığı büyülerle tanınan bu Brezilyalı futbolcu kimdir?",
+    "image": "assets/images/futbolcular/ronaldinho.jpg",
+    "options": [
+      "Ronaldinho",
+      "Rivaldo",
+      "Neymar",
+      "Kaka"
+    ],
+    "answer": "Ronaldinho"
+  },
+  {
+    "question": "İspanyol forvet Fernando Torres hangi futbolcudur?",
+    "image": "assets/images/futbolcular/torres.jpg",
+    "options": [
+      "Fernando Torres",
+      "David Villa",
+      "Raul",
+      "Morata"
+    ],
+    "answer": "Fernando Torres"
+  },
+  {
+    "question": "Liverpool forması giyen Hollandalı stoper kimdir?",
+    "image": "assets/images/futbolcular/van dijk.jpg",
+    "options": [
+      "Virgil van Dijk",
+      "Matthijs de Ligt",
+      "Nathan Aké",
+      "De Vrij"
+    ],
+    "answer": "Virgil van Dijk"
+  },
+  {
+    "question": "Alman kaleci Oliver Kahn ile karıştırılan bu futbolcu kimdir?",
+    "image": "assets/images/futbolcular/voller.jpg",
+    "options": [
+      "Völler",
+      "Oliver Kahn",
+      "Sepp Maier",
+      "Lehmann"
+    ],
+    "answer": "Völler"
+  },
+  {
+    "question": "Barcelona'nın efsane orta saha oyuncularından biri olan futbolcu kimdir?",
+    "image": "assets/images/futbolcular/xavi.jpg",
+    "options": [
+      "Xavi",
+      "Iniesta",
+      "Busquets",
+      "Fabregas"
+    ],
+    "answer": "Xavi"
+  },
+  {
+    "question": "Fransız efsane futbolcu ve teknik direktör kimdir?",
+    "image": "assets/images/futbolcular/zidane.jpg",
+    "options": [
+      "Zinedine Zidane",
+      "Deschamps",
+      "Henry",
+      "Platini"
+    ],
+    "answer": "Zinedine Zidane"
+  }
+]

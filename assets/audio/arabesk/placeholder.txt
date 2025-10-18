@@ -1,0 +1,27 @@
+# Bu klasöre Arabesk müzik dosyaları konulacak
+# Dosya isimleri JSON dosyasındaki audio path'leriyle eşleşmeli
+# Dosya formatı: MP3
+
+Gerekli dosya isimleri:
+- cennet.mp3 (Ebru Gündeş)
+- ben_de_ozledim.mp3 (Ferdi Tayfur)
+- benim_icin_uzulme.mp3 (Bergen)
+- insan_dertli_olunca.mp3 (Bergen)
+- sen_affetsen.mp3 (Bergen)
+- kurtulus_kus_icime_ata_ata.mp3 (Burak Bulut & Ebru Yaşar)
+- bana_sor.mp3 (Ferdi Tayfur)
+- sevda_yelleri.mp3 (Ferdi Tayfur)
+- yediverenim.mp3 (Funda Arar)
+- hain_geceler.mp3 (Cengiz Kurtoğlu)
+- hatasiz_kul_olmaz.mp3 (Cengiz Kurtoğlu)
+- mutlu_ol_yeter.mp3 (İbrahim Tatlıses)
+- itirazim_var.mp3 (Müslüm Gürses)
+- mardinli_guzel_yarim.mp3 (Murat Kurşun)
+- nilufer.mp3 (Müslüm Gürses)
+- seni_yazdim.mp3 (Müslüm Gürses)
+- unutamadim.mp3 (Müslüm Gürses)
+- dil_yarasi.mp3 (Orhan Gencebay)
+- vazgec_gonlum.mp3 (Orhan Gencebay)
+- sabah_olmadan.mp3 (Güllü)
+- al_sevgilim.mp3 (Funda Arar)
+- yorgun_yillarim.mp3 (Cengiz Kurtoğlu)

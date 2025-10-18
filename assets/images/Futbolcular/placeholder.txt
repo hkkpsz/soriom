@@ -1,0 +1,24 @@
+# Bu klasöre futbolcu resimleri konulacak
+# Dosya isimleri JSON dosyasındaki image path'leriyle eşleşmeli
+
+Örnek dosya isimleri:
+- alex_de_souza.jpg
+- alisson.jpg
+- johan_cruyff.jpg
+- del_piero.jpg
+- didier_drogba.jpg
+- ferran_torres.jpg
+- gokhan_inler.jpg
+- gheorghe_hagi.jpg
+- thierry_henry.jpg
+- javier_mascherano.jpg
+- mesut_ozil.jpg
+- pele.jpg
+- ferenc_puskas.jpg
+- roberto_carlos.jpg
+- ronaldinho.jpg
+- fernando_torres.jpg
+- virgil_van_dijk.jpg
+- voller.jpg
+- xavi.jpg
+- zinedine_zidane.jpg
